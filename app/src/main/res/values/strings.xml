@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AddressBook</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_map">Map</string>
+    <string name="menu_setting">setting</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">This app allow you to save your current location addresses, where you are able to share your address to your friends and family.</string>
+</resources>
